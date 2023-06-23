@@ -17,6 +17,8 @@
 
 4.  The all products page provides the list of the available products "mobile phones" in a list view which can help the customer to select his/her favourite mobile phone. 
 
+5.  Customers can also use the search engine to filter the products based on their specific needs and preferences.
+
 <hr>
 
 <h4 align="center">Folder Structure</h4>
