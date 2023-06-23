@@ -82,7 +82,7 @@ https://github.com/TheMostafax/My_Phones_Store/assets/81190585/dd04d2ec-dcef-430
 
 <hr>
 
-<h3 align="center">Products page</h3>
+<h3 align="center">All products page</h3>
 
 
 ![All products page](https://github.com/TheMostafax/My_Phones_Store/assets/81190585/9b150fcc-c048-4974-8597-8cd6579ce3ca)
