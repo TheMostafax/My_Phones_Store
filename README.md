@@ -110,5 +110,21 @@ https://github.com/TheMostafax/My_Phones_Store/assets/81190585/dd04d2ec-dcef-430
 
 <hr>
 
+## Author
+**Mostafa Hassan**
+
+## Getting Started
+
+**Note**: Make sure your Flutter environment is setup.
+#### Installation
+
+In the command terminal, run the following commands:
+
+    $ git clone https://https://github.com/TheMostafax/My_Phones_Store.git my_phones_store
+    $ cd my_phones_store/
+    $ flutter packages get
+    $ flutter run
+    
+<hr>
 <h1 align="center">Languages and Tools that used in this project</h1>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
