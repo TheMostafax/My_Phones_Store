@@ -11,13 +11,11 @@
 
 1.  The home page is the core of the application, where users can browse through a variety of products that are available for purchase. 
 
-2.  The products page provides more detailed information about each product, such as its title, image, price, and description. 
+2.  The all products page provides the list of the available products "mobile phones" in a list view which can help the customer to select his/her favourite mobile phone, it also provides more detailed information about each product, such as its title, image, price, and description. 
 
 3.  The details product page provides users with a more detailed description of the product they are interested in. They can view the product's image, read its description, and find out more about its features and specifications. This page also includes a "buy now" button that allows users to purchase the product directly from the app.
 
-4.  The all products page provides the list of the available products "mobile phones" in a list view which can help the customer to select his/her favourite mobile phone. 
-
-5.  Customers can also use the search engine to filter the products based on their specific needs and preferences.
+4.  Customers can also use the search engine to filter the products based on their specific needs and preferences.
 
 <hr>
 
