@@ -7,7 +7,7 @@
 
 <h1 align="center">Project Description </h1>
 
-"My phones store app is a mobile application developed using Flutter framework. It consists of 5 pages: the first screen, home page, products page, details product page, all products, and about page. The app is designed to provide users with a seamless and responsive experience on all mobile devices."
+"My phones store app is a mobile application developed using Flutter framework. It consists of 5 pages: the first screen, home page, all products page, details product page, and about page. The app is designed to provide users with a seamless and responsive experience on all mobile devices."
 
 1.  The home page is the core of the application, where users can browse through a variety of products that are available for purchase. 
 
