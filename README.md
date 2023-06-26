@@ -5,7 +5,6 @@
 
 </p>
 
-
 <h1 align="center">Project Description </h1>
 
 "My phones store app is a mobile application developed using Flutter framework. It consists of 5 pages: the first screen, home page, all products page, details product page, and about page. The app is designed to provide users with a seamless and responsive experience on all mobile devices."
